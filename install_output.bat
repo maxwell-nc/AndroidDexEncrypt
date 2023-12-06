@@ -1,0 +1,1 @@
+adb install -r demo-app-output.apk
